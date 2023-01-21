@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+This is the a test repository for software engineering.
